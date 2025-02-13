@@ -6,16 +6,10 @@
 <code><img height="20" alt="docker" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 
 <div align="center">
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=opelooo" alt="GitHub Streak" />
-</a>
+<img src="https://streak-stats.demolab.com?user=opelooo&theme=dark&hide_border=true" alt="GitHub Streak" />
   <br>
-<a href="https://github.com/opelooo">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=opelooo&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Opeloo's github stats" />
-</a>
-<a href="https://github.com/opelooo">
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=opelooo&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Opeloo's github stats" />
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=opelooo&hide=html,css,scss,blade,hack,less&show_icons=true&layout=compact&theme=dark&hide_border=true" />
-</a>  
 </div>
 
 #### Projects Currently Maintain
