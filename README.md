@@ -9,7 +9,7 @@
 <img src="https://streak-stats.demolab.com?user=opelooo&theme=dark&hide_border=true" alt="GitHub Streak" />
   <br>
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=opelooo&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Opeloo's github stats" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=opelooo&hide=html,css,scss,blade,hack,less&show_icons=true&layout=compact&theme=dark&hide_border=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=opelooo&hide=html,css,scss,blade,hack,less,hcl&show_icons=true&layout=compact&theme=dark&hide_border=true" />
 </div>
 
 #### Projects Currently Maintain
