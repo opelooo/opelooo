@@ -3,16 +3,16 @@
 </div>
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats-five-eta.vercel.app?user=opelooo&theme=dark&hide_border=true" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.opeloooco.uk?user=opelooo&theme=dark&hide_border=true" alt="GitHub Streak" />
   </a>
   <br>
-<img height=200 align="center" src="https://github-readme-streak-stats.opeloooco.uk/api?username=opelooo&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Opeloo's github stats" />
-  <img height=200 align="center" src="https://github-readme-streak-stats.opeloooco.uk/api/top-langs/?username=opelooo&hide=html,css,scss,blade,hack,less,hcl&show_icons=true&layout=compact&theme=dark&hide_border=true" />
+<img height=200 align="center" src="https://github-readme-stats.opeloooco.uk/api?username=opelooo&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Opeloo's github stats" />
+  <img height=200 align="center" src="https://github-readme-stats.opeloooco.uk/api/top-langs/?username=opelooo&hide=html,css,scss,blade,hack,less,hcl&show_icons=true&layout=compact&theme=dark&hide_border=true" />
 </div>
 
 #### Projects Currently Maintain
 <a href="https://github.com/opelooo/scrcpy_GUI">
-  <img align="center" src="https://github-readme-streak-stats.opeloooco.uk/api/pin/?username=opelooo&repo=scrcpy_GUI&theme=dark&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.opeloooco.uk/api/pin/?username=opelooo&repo=scrcpy_GUI&theme=dark&hide_border=true" />
 </a>
 
 <!--Footer-->
