@@ -11,7 +11,7 @@
 </div>
 
 #### Projects Currently Maintain
-<a href="https://github.com/opelooo/scrcpy_GUI">
+<a href="https://github.com/opelooo/scrcpy_GUI_Go">
   <img align="center" src="https://github-readme-stats.opelooo.uk/api/pin/?username=opelooo&repo=scrcpy_GUI&theme=dark&hide_border=true" />
 </a>
 
